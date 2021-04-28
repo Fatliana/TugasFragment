@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugassFragment</string>
+    <string name="Buah">BUAH</string>
+    <string name="Hewan">HEWAN</string>
+    <string name="Planet">PLANET</string>
+    <string name="Exit">EXIT</string>
+</resources>
